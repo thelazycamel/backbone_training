@@ -1,17 +1,18 @@
 {
     "title": "Click Here",
-    "name": "Stuart Testing again another",
+    "name": "Stuart Testing again another block",
     "width": 500,
     "height": 500000,
     "src": "Images/Sun.jpg",
     "hOffset": 250,
     "vOffset": 250,
     "alignment": "center",
-    "data": "<<>>this is some data",
+    "data": "hello this is some data to change",
     "size": 36,
     "style": "bold",
     "hOffset": 250,
     "vOffset": 100,
     "alignment": "center",
-    "onMouseUp": "sun1.opacity = (sun1.opacity / 100) * 90;"
+    "onMouseUp": "sun1.opacity = (sun1.opacity / 100) * 90;",
+    "scores": {"player1": 123, "player2": 2132}
 } 
